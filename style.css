@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+}
+
+/* button{
+    background: white;
+    color: gray;
+} */
+i{
+    background-color: aliceblue;
+    color: rgb(76, 12, 196);
+    height: 15px;
+    width: 35px;
+    text-align: center;
+}
+
+.Catogres{
+border: 1px solid black;
+margin: 2%;
+width: 15%;
+
+}
+a{
+text-decoration: none;
+}
